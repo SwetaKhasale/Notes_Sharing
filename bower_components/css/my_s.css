@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.table_style {
+	
+	align:"center";
+	border:solid 1px;
+	background-color:#3F0;	
+}
